@@ -37,17 +37,17 @@ defaultContentLanguage = "en"           # Default language to use
   name = "存档"
   weight = 20
   identifier = "archives"
-  url = "/post/"
+  url = "https://www.selfcomm.cn/post/"
 [[menu.main]]
   name = "标记"
   weight = 30
   identifier = "tags"
-  url = "/tags/"
+  url = "https://www.selfcomm.cn/tags/"
 [[menu.main]]
   name = "分类"
   weight = 40
   identifier = "categories"
-  url = "/categories/"
+  url = "https://www.selfcomm.cn/categories/"
 [[menu.main]]
   name = "学术主页"
   weight = 50
