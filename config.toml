@@ -32,7 +32,7 @@ defaultContentLanguage = "en"           # Default language to use
   name = "主页"
   weight = 10
   identifier = "home"
-  url = "https://www.selcomm.cn"
+  url = "https://www.selfcomm.cn"
 [[menu.main]]
   name = "存档"
   weight = 20
