@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
+date: 2018-11-01T21:38:52+08:00
+lastmod: 2018-11-03T21:41:52+08:00
 menu: "main"
 weight: 50
 
@@ -34,6 +34,8 @@ mathjax: false
 <center>我喜欢</center>
 
 - **电影**：《重庆森林》、*Before Sunset*
-- **书籍**：《[我们仨](https://book.douban.com/subject/1023045/)》、《[黑骏马](https://book.douban.com/subject/1086468/)》
-- **足球队**：拜仁（主队）、曼城、利物浦、阿森纳
+- **书籍**：《[我们仨](https://book.douban.com/subject/1023045/)》、《[黑骏马](https://book.douban.com/subject/1086468/)》（中篇小说）
+- **电视剧**：《大时代》
+- **动漫**：麦兜、哆啦A梦
+- **足球队**：拜仁（主队）、阿森纳、曼城
 
