@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-11-01T21:38:52+08:00
-lastmod: 2018-11-03T21:41:52+08:00
+lastmod: 2018-11-04T21:41:52+08:00
 menu: "main"
 weight: 50
 
@@ -19,6 +19,18 @@ mathjax: false
 <center>关于本人</center>
 
 传播学在读硕士，数据科学自学者，足球迷。常年混迹在[豆瓣](https://www.douban.com/people/selfcomm/)、[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景，我还是家乡小镇[足球队](http://www.ganglian.club)的一员。
+
+<center>我的目标</center>
+- 宏观：
+
+- 微观：
+
+  | 编程技术 | 统计技术 | 学术技术 |
+  | :------: | :------: | :------: |
+  |   SQL    |          |  LaTeX   |
+  |          |          |          |
+  |          |          |          |
+
 
 <center>我佩服的人</center>
 
