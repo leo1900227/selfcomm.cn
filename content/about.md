@@ -18,18 +18,37 @@ mathjax: false
 
 <center>关于本人</center>
 
-传播学在读硕士，数据科学自学者，足球迷。常年混迹在[豆瓣](https://www.douban.com/people/selfcomm/)、[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景，我还是家乡小镇[足球队](http://www.ganglian.club)的一员。
+传播学在读硕士，数据科学自学者，足球迷，~~极客（幻想）~~。常年混迹在[豆瓣](https://www.douban.com/people/selfcomm/)、[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景，我还是家乡小镇[足球队](http://www.ganglian.club)的一员。
+
+<center>我的技能</center>
+
+- 计算机
+  - Python：
+  - SQL：
+  - Linux & Shell :
+  - 前端三剑客（html, CSS, JS）：
+- 统计
+  - R :
+  - SPSS :较为熟悉
+  - Stata :安装过，知道一些，但是连基本操作都不会
+  - AMOS :基本就靠画图，解析还是不太懂
+  - Excel :快捷键、函数还算比较熟悉，正在加强VBA学习
+- 其它
+  - Photoshop :
+  - Illustrator :
+  - LaTeX :
 
 <center>我的目标</center>
 - 宏观：
 
 - 微观：
 
-  | 编程技术 | 统计技术 | 学术技术 |
-  | :------: | :------: | :------: |
-  |   SQL    |          |  LaTeX   |
-  |          |          |          |
-  |          |          |          |
+  |            编程技术            | 统计技术 | 学术技术 |
+  | :----------------------------: | :------: | :------: |
+  |             数据库             | 时间序列 |  LaTeX   |
+  | 数据可视化<br>（D3,echarts等） | 多层线性 |          |
+  |                                |          |          |
+  |                                |          |          |
 
 
 <center>我佩服的人</center>
