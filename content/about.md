@@ -44,12 +44,31 @@ mathjax: false
 
 - 微观：
 
-  |  编程技术  | 统计技术 | 学术技能 |
-  | :--------: | :------: | :------: |
-  |   数据库   | 时间序列 |  LaTeX   |
-  | 数据可视化 | 多层线性 |          |
-  |    Git     |  元分析  |          |
-  |            |          |          |
+- 
+
+<table>
+	<tr>
+        <th>数据库</th>
+        <th>统计技术</th>
+        <th>学术技能</th>
+    </tr>
+	<tr>
+        <td>编程技术</td>
+        <td>时间序列</td>
+        <td>LaTeX</td>
+    </tr>
+	<tr>
+        <td>数据可视化</td>
+        <td>多层线性</td>
+        <td></td>
+    </tr>
+	<tr>
+        <td>Git</td>
+        <td>元分析</td>
+        <td></td>
+    </tr>
+</table>
+
 
 
 <center>我佩服的人</center>
