@@ -40,7 +40,7 @@ mathjax: false
 
 <center>我的目标</center>
 
-- 宏观：
+- **宏观**：熟练掌握传统的统计方法和工具（按经管学科的要求学习相关技能），同时具有一定的大数据分析能力（计算社会科学方向）。
 
 - 微观：
 
@@ -82,22 +82,26 @@ mathjax: false
 
 - 负能量
 
-<center>喜欢的事物</center>
+<center>喜欢的事物(不完全)</center>
 
 - :clapper:**电影**：《重庆森林》、*Before Sunset*
 - :books:**书籍**：《[我们仨](https://book.douban.com/subject/1023045/)》、《[黑骏马](https://book.douban.com/subject/1086468/)》（中篇小说）
 - :tv:**电视剧**：《大时代》
-- :musical_note:**歌曲**：《无地自容》
+- :musical_note:**歌曲**：《无地自容》、*California Dream*
 - :baby_chick: **动漫**：麦兜、哆啦A梦
 - :soccer:**足球队**：拜仁（主队）、阿森纳、曼城
 
 <center>喜欢的话</center>
 
-- 一个人要像一支队伍。——刘瑜
-
+- [一个人要像一支队伍。](https://xw.qq.com/cul/20160310027054/CUL2016031002705405)——刘瑜
 - 上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑而走之。——《道德经》
+- [坦坦荡荡说“无用”。](http://shc2000.sjtu.edu.cn/yuanxing/no11.htm)——江晓原
+
+
 
 <center>我理想的工作环境</center>
+
+
 我希望我有一个属于自己的书房/工作室，网络通畅、光线充足。
 
 
@@ -116,6 +120,8 @@ mathjax: false
 
 书房里还有一个鱼缸，鱼缸里有鱼有虾有蟹有草，鱼缸配备过滤器、水草灯和自动投食器。
 
+
+
 <center>我理想的家</center>
 
 - 电子装备：
@@ -126,6 +132,7 @@ mathjax: false
 - 家具：
   - 加湿器
   - 烘干机
+
 
 <center>联系我</center>
 
