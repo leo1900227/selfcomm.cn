@@ -36,6 +36,7 @@ mathjax: false
 - 其它
   - Photoshop :
   - Illustrator :
+  - Tableau : 
   - LaTeX :
 
 <center>我的目标</center>
@@ -67,7 +68,13 @@ mathjax: false
         <td>元分析</td>
         <td></td>
     </tr>
+	<tr>
+        <td>Docker</td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
+
 
 
 <center>我佩服的人</center>
