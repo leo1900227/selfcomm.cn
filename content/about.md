@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-11-01T21:38:52+08:00
-lastmod: 2018-11-11T21:41:52+08:00
+lastmod: 2018-11-20T21:41:52+08:00
 menu: "main"
 weight: 50
 
@@ -103,8 +103,11 @@ mathjax: false
 - [一个人要像一支队伍。](https://xw.qq.com/cul/20160310027054/CUL2016031002705405)——刘瑜
 - 上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑而走之。——《道德经》
 - [坦坦荡荡说“无用”。](http://shc2000.sjtu.edu.cn/yuanxing/no11.htm)——江晓原
-
-
+- 人生唯一的不幸就是自己的无能。——王小波
+- 想做的事，总找得到时间和机会;不想做的事，总找得出借口。——张爱玲
+- 你的问题主要是读书不多而想得太多。——杨绛
+- Like sunlight, sunset, we appear, we disappear. We are so important to some, but we are just passing through. ——*Before Midnight*
+- I have to remind myself that some birds aren't meant to be caged. Their feathers are just too bright. And when they fly away, the part of you that knows it was a sin to lock them up.  ——*The Shawshank Redemption* 
 
 <center>我理想的工作环境</center>
 
