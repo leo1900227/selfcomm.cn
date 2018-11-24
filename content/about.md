@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-11-01T21:38:52+08:00
-lastmod: 2018-11-20T21:41:52+08:00
+lastmod: 2018-11-22T21:41:52+08:00
 menu: "main"
 weight: 50
 
@@ -49,12 +49,12 @@ mathjax: false
 
 <table>
 	<tr>
-        <th>数据库</th>
+        <th>编程技术</th>
         <th>统计技术</th>
         <th>学术技能</th>
     </tr>
 	<tr>
-        <td>编程技术</td>
+        <td>数据库</td>
         <td>时间序列</td>
         <td>LaTeX</td>
     </tr>
@@ -74,6 +74,7 @@ mathjax: false
         <td></td>
     </tr>
 </table>
+
 
 
 
@@ -115,14 +116,32 @@ mathjax: false
 
 <center>喜欢的电影台词</center>
 
-- 人如果没有梦想，那和咸鱼有什么区别？——《功夫足球》
+- 人，如果没有梦想，那和咸鱼有什么区别？——《功夫足球》
+
 - 心情不好的时候，那就上厕所，上完之后，面部狰狞的对着马桶说：“你给我吃屎吧你！”然后猛冲厕所！——《麦兜》
+
 - 每个人都有失恋的时候，而每一次我失恋，我都会跑步，因为跑步可以将你身体里的水分蒸发掉，而让我不那么容易流泪，我怎么可以流泪呢？在阿May的心里，我可是个很酷的男人。——《重庆森林》
+
 - 人生不能像做菜，把所有的料都准备好了才下锅。——《饮食男女》
+
+- **Mathilda**: Is life always this hard, or is it just when you're a kid?
+
+  **Léon**: Always like this. ——*Léon: The Professional*
+
+- **Christopher Gardner**: [after playing basket ball] Hey. Don't ever let somebody tell you... You can't do something. Not even me. All right?
+
+  **Christopher**: All right.
+
+  **Christopher Gardner**: You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period.
+
 - Like sunlight, sunset, we appear, we disappear. We are so important to some, but we are just passing through. ——*Before Midnight*
+
 - The universe is a cruel, uncaring void. The key to being happy isn't the search for meaning; is to just keep yourself busy with unimportant nonsense, and eventually, you will be dead. ——*BoJack Horseman*
+
 - I have to remind myself that some birds aren't meant to be caged. Their feathers are just too bright. And when they fly away, the part of you that knows it was a sin to lock them up.  ——*The Shawshank Redemption* 
+
 - I'd rather die drunk, broke at 34 and have people at a dinner table talk about me than live to be rich and sober at 90 and nobody remembered who I was. —— *Whiplash*
+
 - All that city... You just couldn't see an end to it. The end! Please, could you show me where it ends? It was all very fine on that gangway and I was grand, too, in my overcoat. I cut quite a figure and I had no doubts about getting off. Guaranteed. That wasn't a problem. It wasn't what I saw that stopped me, Max. It was what I didn't see. Can you understand that? What I didn't see. In all that sprawling city, there was everything except an end. There was everything. But there wasn't an end. What I couldn't see was where all that came to an end. The end of the world. Take a piano. The keys begin, the keys end. **You know there are 88 of them and no-one can tell you differently. They are not infinite, you are infinite. And on those 88 keys the music that you can make is infinite.** I like that. That I can live by. But you get me up on that gangway and roll out a keyboard with millions of keys, and that's the truth, there's no end to them, that keyboard is infinite. But if that keyboard is infinite there's no music you can play. You're sitting on the wrong bench. That's God's piano. Christ, did you see the streets? There were thousands of them! How do you choose just one? One woman, one house, one piece of land to call your own, one landscape to look at, one way to die. All that world weighing down on you without you knowing where it ends. Aren't you scared of just breaking apart just thinking about it, the enormity of living in it? I was born on this ship. The world passed me by, but two thousand people at a time. And there were wishes here, but never more than could fit on a ship, between prow and stern. You played out your happiness on a piano that was not infinite. I learned to live that way. Land is a ship too big for me. It's a woman too beautiful. It's a voyage too long. Perfume too strong. It's music I don't know how to make. I can't get off this ship. At best, I can step off my life. After all, it's as though I never existed. You're the exception, Max. You're the only one who knows that I'm here. You're a minority. You'd better get used to it. Forgive me, my friend. But I'm not getting off. ——*The Legend of 1900* 
 
 <center>文学作品片段摘写</center>
