@@ -112,7 +112,7 @@ mathjax: false
 
 - [一米远的天堂](https://zhuanlan.zhihu.com/p/47225705)
 - [花开不败](https://baike.baidu.com/item/%E8%8A%B1%E5%BC%80%E4%B8%8D%E8%B4%A5/19741110)
-- [Why are we here ?](http://mp.weixin.qq.com/s?src=11&timestamp=1542787895&ver=1257&signature=zhNSg7-lVE9fge*X7rwFP0HSpHY*F1d4-XHfYQlTJ0Bp*ab*u*PEqCI0q-m2zaQ2jmB-eQa5PdDgXaYoZT4RXWGmLI6tAy0oOvK-FUck*-OlPro-J-8Wvud*QeUrXlt5&new=1)
+- [Why are we here ?](https://weixin.sogou.com/weixin?type=2&query=why+are+we+here)
 
 <center>喜欢的电影台词</center>
 
