@@ -127,13 +127,13 @@ mathjax: false
 
 -  **Mathilda**: Is life always this hard, or is it just when you're a kid?
 
-  ​	**Léon**: Always like this. ——*Léon: The Professional*
+  ​			**Léon**: Always like this. ——*Léon: The Professional*
 
 -  **Christopher Gardner**: [after playing basket ball] Hey. Don't ever let somebody tell you... You can't do something. Not even me. All right?
 
-  ​	**Christopher**: All right.
+  ​			**Christopher**: All right.
 
-  ​	**Christopher Gardner**: You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period.
+  ​			**Christopher Gardner**: You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period.
 
 - Like sunlight, sunset, we appear, we disappear. We are so important to some, but we are just passing through. ——*Before Midnight*
 
