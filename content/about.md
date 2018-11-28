@@ -104,6 +104,7 @@ mathjax: false
 - 上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑而走之。——《道德经》
 - [一个人要像一支队伍。](https://xw.qq.com/cul/20160310027054/CUL2016031002705405)——刘瑜
 - [坦坦荡荡说“无用”。](http://shc2000.sjtu.edu.cn/yuanxing/no11.htm)——江晓原
+- 怕什么真理无穷，进一寸有一寸的欢喜。 ——胡适
 - 人生唯一的不幸就是自己的无能。——王小波
 - 你的问题主要是读书不多而想得太多。——杨绛
 - 想做的事，总找得到时间和机会；不想做的事，总找得出借口。——张爱玲
@@ -124,11 +125,15 @@ mathjax: false
 
 - 人生不能像做菜，把所有的料都准备好了才下锅。——《饮食男女》
 
-- **Mathilda**: Is life always this hard, or is it just when you're a kid?
+-  
+
+  **Mathilda**: Is life always this hard, or is it just when you're a kid?
 
   **Léon**: Always like this. ——*Léon: The Professional*
 
-- **Christopher Gardner**: [after playing basket ball] Hey. Don't ever let somebody tell you... You can't do something. Not even me. All right?
+-  
+
+  **Christopher Gardner**: [after playing basket ball] Hey. Don't ever let somebody tell you... You can't do something. Not even me. All right?
 
   **Christopher**: All right.
 
@@ -147,7 +152,7 @@ mathjax: false
 <center>文学作品片段摘写</center>
 
 - 我滚鞍下马，猛地把身体扑到青青的茂密的草丛之中，我悄悄地亲吻着这苦涩的草地，亲吻着这片留下了我和索米娅的斑斑足迹和炽热的爱情，这出现过我永远不忘美丽的红霞和伸展着我的亲人们生活的大草原。——《黑骏马》
-- I have an idea that some men are born out of their due place. Accident has cast them amid certain surroundings, but they have always a nostalgia for a home they know not. They are strangers in their birthplace, and the leafy lanes they have known from childhood or the populous streets in which they have played, remain but a place of passage. They may spend their whole lives aliens among their kindred and remain aloof among the only scenes they have ever known. Perhaps it is this sense of strangeness that sends men far and wide in the search for something permanent, to which they may attach themselves. Perhaps some deep-rooted atavism urges the wanderer back to lands which his ancestors left in the dim beginnings of history. 
+- I have an idea that some men are born out of their due place. Accident has cast them amid certain surroundings, but they have always a nostalgia for a home they know not. They are strangers in their birthplace, and the leafy lanes they have known from childhood or the populous streets in which they have played, remain but a place of passage. They may spend their whole lives aliens among their kindred and remain aloof among the only scenes they have ever known. Perhaps it is this sense of strangeness that sends men far and wide in the search for something permanent, to which they may attach themselves. Perhaps some deep-rooted atavism urges the wanderer back to lands which his ancestors left in the dim beginnings of history.  ——*Moon and sixpence*
 
 <center>我理想的工作环境</center>
 
