@@ -1,6 +1,6 @@
 ---
 title: "读书笔记-A PRIMER ON PARTIAL LEAST SQUARES STRUCTURAL EQUATION MODELING (PLS-SEM)"
-date: 2018-11-03T15:43:48+08:00
+date: 2019-01-01T15:43:48+08:00
 lastmod: 2019-01-03T15:43:48+08:00
 draft: false
 tags: 
@@ -122,20 +122,55 @@ Suggested Readings
 
 Chapter Preview
 
+
+
 ## Stage 4: Model Estimation and the PLS-SEM Algorithm
 
-How the Algorithm Works
-Statistical Properties
-Algorithmic Options and Parameter Settings to Run the Algorithm
-Results
-Case Study Illustration—PLS Path Model Estimation (Stage 4)
-Model Estimation
-Estimation Results
-Summary
-Review Questions
-Critical Thinking Questions
-Key Terms
-Suggested Readings
+### How the Algorithm Works
+
+![](http://bit.ly/2Syy72f)
+
+- exogenous constructs ：$Y_{1}$, $Y_2$ (formative measures )
+- endogenous construct: $Y_3$ (reflective measures )
+
+- outer weights: $w_{11}, w_{12}, w_{23}, w_{24}$
+- outer loadings: $l_{35},l_{36},l_{37} $
+- The coefficient $p_{13}$ represents the relationship from $Y_1$ to $Y_3$, and $p_{23}$ represents the relationship from $Y_{2}$ to $Y_{3}$ 
+
+
+
+All partial regression models are estimated by the PLS-SEM algorithm’s iterative procedures, which include ***two stages***. 
+
+- In the first stage, the <u>construct scores</u> are estimated. 
+- Then, in the second stage, the final estimates of the outer weights and loadings are calculated, as well as the structural model’s path coefficients and the resulting   $R^{2}$   values of the endogenous latent variables.
+
+
+
+users with experience in the statistical software environment R can also draw on packages such as ==semPLS== (Monecke & Leisch, 2012) and ==plspm== (Sánchez, Trinchera, & Russolillo, 2015), which facilitate flexible analysis of PLS path models. 
+
+
+
+### Statistical Properties
+
+- the focus of PLS-SEM is more on *prediction* than on explanation 
+
+### Algorithmic Options and Parameter Settings to Run the Algorithm
+
+### Results
+
+## Case Study Illustration—PLS Path Model Estimation (Stage 4)
+
+### Model Estimation
+
+### Estimation Results
+
+## Summary
+
+- **Learn how the PLS-SEM algorithm functions.** The PLS-SEM algorithm uses the empirical data for the indicators and iteratively determines the construct scores, the path coefficients, indicator loadings and weights, and further statistics such as R2 values. Specifically, after determining the scores for every construct, the algorithm estimates all remaining unknown relationships in the PLS path model. The algorithm first obtains the measurement model results, which are the relationships between the constructs and their indicator variables. Then, the algorithm calculates the path coefficients, which are the relationships between the constructs in the structural model, along with the R2 values of endogenous constructs. All results are standardized, meaning that, for example, path coefficients can be compared with each other. 
+- **Comprehend the options and parameter settings to run the algorithm.** To apply the PLSSEM algorithm, researchers need to specify several parameter settings. The decisions include selecting the structural model weighting scheme, initial values to start the PLS-SEM algorithm, the stop criterion, and the maximum number of iterations. The path weighting scheme maximizes the R2 values of the endogenous constructs, so that option should be selected. Finally, the initial values (e.g., +1) for the relationships in the measurement model, the stop criterion (a small number such as 1 · 10–7), and a sufficiently large maximum number of iterations (e.g., 300) should be selected. The PLS-SEM algorithm runs until convergence is achieved or the maximum number of iterations has been reached. The resulting construct scores are then used to estimate all partial regression models in the structural model and the measurement models to obtain the final model estimates. 
+- **Understand the statistical properties of the PLS-SEM method.** PLS-SEM is an OLS regression-based method, which implies that those statistical properties known from OLS also apply to PLS-SEM. PLS-SEM focuses on the prediction of a specific set of hypothesized relationships that maximizes the explained variance of the dependent variable. The initial key results of the PLS path model estimation are the construct scores. These scores are treated as perfect substitutes for the indicator variables in the measurement models and therefore use all the variance that can help explain the endogenous constructs. Moreover, they facilitate estimating all relationships in the PLS path model. The estimation of these relationships is, however, subject to what has been mistakenly referred to as the PLS-SEM bias, which means that measurement model results are usually overestimated while structural model results are usually underestimated compared with CB-SEM results. However, under conditions commonly encountered in research situations, this inconsistency is quite small. Moreover, the parameter estimation efficiency of PLS-SEM delivers high levels of statistical power compared with CBSEM. Consequently, PLS-SEM better identifies population relationships and is better suited for exploratory research purposes—a feature that is further supported by the method’s less restrictive requirements in terms of model setups, model complexity, and data characteristics. 
+- **Explain how to interpret the results.** The PLS-SEM method estimates the standardized outer loadings, outer weights, and structural model path coefficients. The indicator loadings and indicator weights are computed for any measurement model in the PLS path model. When reflective measurement models are used, the researcher interprets the outer loadings, whereas outer weights are the primary criterion when formative measurement models are interpreted (note, however, that the loadings also play a role in formative measurement model assessment).For the structural model, the standardized coefficients of the relationships between the constructs are provided as well as the R2 values for the endogenous constructs. Other more advanced PLSSEM evaluation criteria used in assessing the results are introduced in Chapters 4 to 6. 
+- **Apply the PLS-SEM algorithm using the SmartPLS 3 software.** The corporate reputation example and the empirical data available with this book enable you to apply the PLS-SEM algorithm using the SmartPLS 3 software. Selected menu options guide the user in choosing the algorithmic options and parameter settings required for running the PLS-SEM algorithm. The SmartPLS 3 results reports enable the user to check if the algorithm converged (i.e., the stop criterion was reached and not the maximum number of iterations) and to evaluate the initial results for the outer weights, outer loadings, structural model path coefficients, and R2 values. Additional diagnostic measures for more advanced analyses are discussed in later chapters.
 
 # Chapter 4: Assessing PLS-SEM Results Part I: Evaluation of Reflective Measurement
 
