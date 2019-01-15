@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-11-01T21:38:52+08:00
-lastmod: 2018-11-22T21:41:52+08:00
+lastmod: 2019-01-07T21:41:52+08:00
 menu: "main"
 weight: 50
 
@@ -18,7 +18,7 @@ mathjax: false
 
 <center>关于本人</center>
 
-传播学在读硕士，数据科学自学者，足球迷，（伪）极客。常年混迹在[豆瓣](https://www.douban.com/people/selfcomm/)、[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是家乡小镇[足球队](http://www.ganglian.club)的一员。
+传播学在读硕士，数据科学自学者，足球迷，（伪）极客。常年混迹在[豆瓣](https://www.douban.com/people/selfcomm/)、[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是家乡小镇足球队的一员。
 
 <center>我的技能</center>
 
@@ -32,6 +32,7 @@ mathjax: false
   - SPSS :较为熟悉
   - Stata :安装过，知道一些，但是连基本操作都不会
   - AMOS :基本就靠画图，解析还是不太懂
+  - SmartPLS:
   - Excel :快捷键、函数还算比较熟悉，正在加强VBA学习
 - 其它
   - Photoshop :

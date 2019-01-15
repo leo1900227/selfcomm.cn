@@ -1,7 +1,7 @@
 ---
 title: "读书笔记-Advanced R"
-date: 2019-01-01T15:43:48+08:00
-lastmod: 2019-01-03T15:43:48+08:00
+date: 2019-01-07T15:43:48+08:00
+lastmod: 2019-01-07T15:43:48+08:00
 draft: false
 tags: 
 categories: 
@@ -41,13 +41,13 @@ mathjax: true
 Introduction
 
 ## [2 Names and values](https://adv-r.hadley.nz/names-values.html)
-2.1 Introduction
-2.2 Binding basics
-2.3 Copy-on-modify
-2.4 Object size
-2.5 Modify-in-place
-2.6 Unbinding and the garbage collector
-2.7 Answers
+### 2.1 Introduction
+### 2.2 Binding basics
+### 2.3 Copy-on-modify
+### 2.4 Object size
+### 2.5 Modify-in-place
+### 2.6 Unbinding and the garbage collector
+### 2.7 Answers
 
 ## 3 Vectors
 
@@ -88,3 +88,4 @@ Introduction
 ## 23 Measuring performance
 ## 24 Improving performance
 ## 25 Rewriting R code in C++
+
