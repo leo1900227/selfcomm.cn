@@ -18,7 +18,7 @@ mathjax: false
 
 <center>关于本人</center>
 
-传播学在读硕士，数据科学自学者，足球迷，（伪）极客。常年混迹在[豆瓣](https://www.douban.com/people/selfcomm/)、[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是家乡小镇足球队的一员。
+传播学在读硕士，数据科学自学者，足球迷，（伪）极客。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是家乡足球队的一员。
 
 <center>我的技能</center>
 
@@ -46,35 +46,12 @@ mathjax: false
 
 - 微观：
 
-- 
 
-<table>
-	<tr>
-        <th>编程技术</th>
-        <th>统计技术</th>
-        <th>学术技能</th>
-    </tr>
-	<tr>
-        <td>数据库</td>
-        <td>时间序列</td>
-        <td>LaTeX</td>
-    </tr>
-	<tr>
-        <td>数据可视化</td>
-        <td>多层线性</td>
-        <td></td>
-    </tr>
-	<tr>
-        <td>Git</td>
-        <td>元分析</td>
-        <td></td>
-    </tr>
-	<tr>
-        <td>Docker</td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
+| 编程技术   | 统计技术 | 学术技能 |
+| --------- | -------- | -------- |
+| 数据库     | 时间序列 | LaTeX    |
+| 数据可视化 | 多层线性 |          |
+| Git        | 元分析   |          |
 
 
 
@@ -126,11 +103,11 @@ mathjax: false
 
 - 人生不能像做菜，把所有的料都准备好了才下锅。——《饮食男女》
 
--  **Mathilda**: Is life always this hard, or is it just when you're a kid?
+- **Mathilda**: Is life always this hard, or is it just when you're a kid?
 
   ​			**Léon**: Always like this. ——*Léon: The Professional*
 
--  **Christopher Gardner**: [after playing basket ball] Hey. Don't ever let somebody tell you... You can't do something. Not even me. All right?
+- **Christopher Gardner**: [after playing basket ball] Hey. Don't ever let somebody tell you... You can't do something. Not even me. All right?
 
   ​			**Christopher**: All right.
 
@@ -184,6 +161,8 @@ mathjax: false
 - 家具：
   - 加湿器
   - 烘干机
+  - 洗碗机
+  - 扫地机器人
 
 
 <center>联系我</center>
