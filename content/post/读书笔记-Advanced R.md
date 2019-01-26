@@ -51,8 +51,6 @@ Introduction
 
 ## 3 Vectors
 
-
-
 ## 4 Subsetting
 
 ## 5 Control flow
