@@ -16,7 +16,7 @@ mathjax: false
 
 <center>关于本人</center>
 
-传播学在读硕士，数据科学自学者，足球迷，（伪）极客。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是家乡足球队的一员。
+传播学在读硕士，数据科学自学者，足球迷，（伪）极客。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是[家乡足球队](https://www.selfcomm.cn/image/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)的一员。
 
 <center>我的技能</center>
 
@@ -48,8 +48,9 @@ mathjax: false
 | 编程技术   | 统计技术 | 学术技能 |
 | --------- | -------- | -------- |
 | 数据库     | 时间序列 | LaTeX    |
-| 数据可视化 | 多层线性 |          |
+| 数据可视化（前端） | 多层线性 | 学术演讲 |
 | Git        | 元分析   |          |
+|  |  | |
 
 
 <center>我佩服的人</center>
