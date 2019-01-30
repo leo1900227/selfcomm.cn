@@ -12,21 +12,20 @@ mathjax: false
 
 <center>关于本站</center>
 
-***自我传播***，也就是自说自话。本站是我记录想法及学习笔记的平台，是我说悄悄话的“树洞”。互联网是一个开放的公共空间，我写的东西既是给自己看的，也是给别人看的，因此本站兼具“日记”和“传记”的功能。
+***自我传播***，也就是自说自话。本站是我记录想法及学习笔记的平台，是我说悄悄话的“树洞”。互联网是一个开放的公共空间，我写的东西本主要是给自己看的，但其他人也能看到，因此本站兼具“日记”和“传记”的功能。
 
 <center>关于本人</center>
 
-传播学在读硕士，数据科学自学者，足球迷，（伪）极客。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是[家乡足球队](https://www.selfcomm.cn/image/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)的一员。
+传播学在读硕士，数据科学自学者，足球迷，（伪）极客。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是[家乡足球队](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%B8%AF%E8%81%94%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8)的一员。
 
 <center>我的技能</center>
 
 - 计算机
-  - Python：
-  - SQL：
-  - Linux & Shell :
-  - 前端三剑客（html, CSS, JS）：
+  - Python：入门
+  - Linux & Shell : 入门
+  - 前端三剑客（html, CSS, JS）：入门
 - 统计
-  - R :
+  - R : 熟练
   - SPSS :较为熟悉
   - Stata :安装过，知道一些，但是连基本操作都不会
   - AMOS :基本就靠画图，解析还是不太懂
@@ -41,8 +40,10 @@ mathjax: false
 <center>我的目标</center>
 
 - **宏观**：熟练掌握传统的统计方法和工具（按经管学科的要求学习相关技能），同时具有一定的大数据分析能力（计算社会科学方向）。
-
-- 微观：
+- **中观**：
+  - 具备独立发表SSCI的能力
+  - 开发若干个R包
+- **微观**：各项技能的获得
 
 
 | 编程技术   | 统计技术 | 学术技能 |
