@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-11-01T21:38:52+08:00
-lastmod: 2019-01-07T21:41:52+08:00
+lastmod: 2019-01-30T21:41:52+08:00
 menu: "main"
 weight: 50
 
@@ -12,11 +12,27 @@ mathjax: false
 
 <center>关于本站</center>
 
-***自我传播***，也就是自说自话。本站是我记录想法及学习笔记的平台，是我说悄悄话的“树洞”。互联网是一个开放的公共空间，我写的东西本主要是给自己看的，但其他人也能看到，因此本站兼具“日记”和“传记”的功能。
+***自我传播***，也就是自说自话、自言自语。本站是我记录想法及学习笔记的介质，是我说悄悄话的“树洞”。互联网是一个开放的公共空间，我写的东西本主要是给自己看的，但其他人也能看到，因此本站兼具“日记”和“传记”的功能。
 
 <center>关于本人</center>
 
 传播学在读硕士，数据科学自学者，足球迷，（伪）极客。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是[家乡足球队](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%B8%AF%E8%81%94%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8)的一员。
+
+<center>我想成为的人</center>
+
+- 理性消费，积极生产
+- Python和R两开花
+- 低调务实而又不死板沉闷
+- 少胡思乱想，少想虚无缥缈的东西，少抱怨，多做实事
+- 少上网，多读书
+- 少八卦，多脚踏实地
+- 不做自己讨厌的人
+
+<center>求学愿景</center>
+
+- 具备独立发表SSCI的能力
+- 成为R包开发者
+- 兼具到高校任教和到工业界任职的能力（兼有研究和编程能力）
 
 <center>我的技能</center>
 
@@ -35,11 +51,10 @@ mathjax: false
   - Photoshop :
   - Illustrator :
   - Tableau : 
-  - LaTeX :
 
 <center>我的目标</center>
 
-- **宏观**：熟练掌握传统的统计方法和工具（按经管学科的要求学习相关技能），同时具有一定的大数据分析能力（计算社会科学方向）。
+- **宏观**：熟练掌握传统的统计方法和工具（按经管学科的要求学习相关技能），同时具有一定的大数据分析能力（计算社会科学方向）。（能写代码，能分析数据，出得了文章）
 - **中观**：
   - 具备独立发表SSCI的能力
   - 开发若干个R包
@@ -50,8 +65,8 @@ mathjax: false
 | --------- | -------- | -------- |
 | 数据库     | 时间序列 | LaTeX    |
 | 数据可视化（前端） | 多层线性 | 学术演讲 |
-| Git        | 元分析   |          |
-|  |  | |
+| Git        | 元分析   |  |
+| ElasticSearch | ArcGIS | |
 
 
 <center>我佩服的人</center>
@@ -79,9 +94,10 @@ mathjax: false
 
 - 作家：三毛、余华、张承志
 - 歌手：很多很多的粤语歌手、黑豹、刘若英
+- R Users: 谢益辉，Hadley Wickham
 - 艺人：黄子华
-- 球员：巴拉克、罗本
-- 教练：瓜迪奥拉、范加尔
+- 足球球员：巴拉克、罗本
+- 足球教练：瓜迪奥拉、范加尔
 
 <center>喜欢的话</center>
 
@@ -93,6 +109,7 @@ mathjax: false
 - 人生唯一的不幸就是自己的无能。——王小波
 - 你的问题主要是读书不多而想得太多。——杨绛
 - 想做的事，总找得到时间和机会；不想做的事，总找得出借口。——张爱玲
+- A musician must make music, an artist must paint, a poet must write, if he is to be ultimately at peace with himself. What a man can be, he must be.  ——Maslow
 
 <center>印象深刻的文章</center>
 
