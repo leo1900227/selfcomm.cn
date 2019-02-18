@@ -18,13 +18,14 @@ mathjax: false
 
 传播学在读硕士，数据科学自学者，足球迷，（伪）极客。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是[家乡足球队](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%B8%AF%E8%81%94%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8)的一员。
 
-<center>我想成为的人</center>
+<center>自我要求</center>
 
 - 理性消费，积极生产
 - Python和R两开花
+- 英语好到令英语母语者汗颜，代码能力好到令程序员汗颜，数据分析能力好到令统计学学子汗颜
 - 低调务实而又不死板沉闷
 - 少胡思乱想，少想虚无缥缈的东西，少抱怨，多做实事
-- 少上网，多读书
+- 少上网，少玩手机，多读书
 - 少八卦，多脚踏实地
 - 不做自己讨厌的人
 
@@ -61,12 +62,12 @@ mathjax: false
 - **微观**：各项技能的获得
 
 
-| 编程技术   | 统计技术 | 学术技能 |
-| --------- | -------- | -------- |
-| 数据库     | 时间序列 | LaTeX    |
+| 编程技术           | 统计技术 | 学术技能 |
+| :----------------- | :------- | -------- |
+| 数据库             | 时间序列 | LaTeX    |
 | 数据可视化（前端） | 多层线性 | 学术演讲 |
-| Git        | 元分析   |  |
-| ElasticSearch | ArcGIS | |
+| Git                | 元分析   |          |
+| ElasticSearch      | ArcGIS   |          |
 
 
 <center>我佩服的人</center>
@@ -109,7 +110,7 @@ mathjax: false
 - 人生唯一的不幸就是自己的无能。——王小波
 - 你的问题主要是读书不多而想得太多。——杨绛
 - 想做的事，总找得到时间和机会；不想做的事，总找得出借口。——张爱玲
-- A musician must make music, an artist must paint, a poet must write, if he is to be ultimately at peace with himself. What a man can be, he must be.  ——Maslow
+- A musician must make music, an artist must paint, a poet must write, if he is to be ultimately at peace with himself. What a man can be, he must be.  ——Abraham Maslow
 
 <center>印象深刻的文章</center>
 
@@ -159,7 +160,7 @@ mathjax: false
 
 
 
-书房里有两张办公桌，或者一张足够长的办公桌，总之能摆得下多台显示器并且有多余的空间可以用来专注地看书。桌子上摆放着一些我喜欢的书和常用的工具书，摆放的显示器至少要有三个，一个竖屏的（看电子书和写代码超爽），一个超长屏的（看Endnote超爽），还有一台笔记本电脑。如果还有其它屏幕摆在一边就更好了，例如索尼DPT-RP1、微软surface、Macbook、Kindle。书房最好还有打印机和扫描仪，方便资料介质的转换。
+书房里有一张足够长的办公桌，能摆得下多台显示器并且有多余的空间可以用来专注地看书。桌子上摆放着一些我喜欢的书和常用的工具书，摆放的显示器至少要有三个，一个竖屏的（看电子书和写代码超爽），一个超长屏的（方便看Endnote），还有一台笔记本电脑。如果还有其它屏幕摆在一边就更好了，例如索尼DPT-RP1、微软surface、Macbook、Kindle。书房最好还有打印机和扫描仪，方便资料介质的转换。
 
 
 
