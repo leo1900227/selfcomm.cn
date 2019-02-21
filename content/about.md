@@ -16,7 +16,7 @@ mathjax: false
 
 <center>关于本人</center>
 
-传播学在读硕士，数据科学自学者，足球迷，（伪）极客。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是[家乡足球队](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%B8%AF%E8%81%94%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8)的一员。
+传播学在读硕士，数据科学自学者，足球迷，（伪）极客。站在食物链顶端的广东人，在四川读书期间加固了吃辣能力，因而食物谱的种类丰富、口味“阈值”极大；饮食习惯之奇特让友人甚为惊诧：好饮加盐的雪碧，吃西瓜也粘盐、喝粥偶尔也加点辣椒酱。网虫，屯资料狂魔，热衷于开网络挖掘机（毕竟拜仁球迷），“找资料如山倒，用资料如抽丝”。混迹在[豆瓣](https://www.douban.com/people/selfcomm/)，偶尔也会逛逛[Github](https://github.com/leo1900227)、~~虎扑（咋老戒不掉）~~，有个[学术主页](https://zhilianglin.com)记录了我的一些教育和学术背景。除此之外，我还是[家乡足球队](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%B8%AF%E8%81%94%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8)的一员。
 
 <center>自我要求</center>
 
@@ -40,7 +40,7 @@ mathjax: false
 - 计算机
   - Python：入门
   - Linux & Shell : 入门
-  - 前端三剑客（html, CSS, JS）：入门
+  - 前端三剑客（html, CSS, JS）：知道 & 入门
 - 统计
   - R : 熟练
   - SPSS :较为熟悉
@@ -59,15 +59,8 @@ mathjax: false
 - **中观**：
   - 具备独立发表SSCI的能力
   - 开发若干个R包
-- **微观**：各项技能的获得
-
-
-| 编程技术           | 统计技术 | 学术技能 |
-| :----------------- | :------- | -------- |
-| 数据库             | 时间序列 | LaTeX    |
-| 数据可视化（前端） | 多层线性 | 学术演讲 |
-| Git                | 元分析   |          |
-| ElasticSearch      | ArcGIS   |          |
+- **微观**：
+  - 深耕R, Python, JavaScript三门编程语言（统计、编程、可视化三路通吃）
 
 
 <center>我佩服的人</center>
