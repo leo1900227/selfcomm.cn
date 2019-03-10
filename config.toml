@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "https://www.selfcomm.cn"
-title = "selfcomm自我传播"
+title = "自我传播"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hugo-theme-jane"
