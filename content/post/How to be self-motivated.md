@@ -1,7 +1,7 @@
 ---
-title: "我读书最后的机会"
-date: 2019-01-11T15:43:48+08:00
-lastmod: 2019-01-11T15:43:48+08:00
+title: "行动目标"
+date: 2019-01-03T15:43:48+08:00
+lastmod: 2019-01-03T15:43:48+08:00
 draft: true
 tags: 
 categories: 
@@ -15,7 +15,8 @@ autoCollapseToc: true
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
 contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
 # reward: false
-mathjax: false
+mathjax: true
 ---
 
-今年年中就要毕业，但是我还有一大堆东西没有做：论文没有发表，学校申请没有成功，雅思成绩不过关，工作没有定，毕业论文没有写完......回顾研究生生涯的两年半时间，我过得真够堕落。最后的机会了，如果再不把握好，
+模板
+
