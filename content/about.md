@@ -10,6 +10,8 @@ comment: false
 mathjax: false
 ---
 
+ <script type="text/javascript" src="http://www.douban.com/service/badge/selfcomm/?selection=latest&amp;picsize=small&amp;show=dolist&amp;n=20&amp;cat=movie%7Cbook&amp;columns=5"></script>
+
 <center>关于本站</center>
 
 ***自我传播***，也就是自说自话、自言自语。本站是我记录想法及学习笔记的介质，是我说悄悄话的“树洞”。互联网是一个开放的公共空间，我写的东西本主要是给自己看的，但其他人也能看到，因此本站兼具“日记”和“传记”的功能。
