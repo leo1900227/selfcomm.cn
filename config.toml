@@ -81,7 +81,6 @@ defaultContentLanguage = "en"           # Default language to use
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   # 是否使用mathjax（数学公式）
-  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
   
   # show word count and read time ?                       # 是否显示字数统计与阅读时间
   moreMeta = true
